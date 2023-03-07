@@ -1,5 +1,5 @@
 <div align="center">
-<h1> Hi there, I'm Marian Francisco 👋 </h1>
+<h1> Hello, I'm Marian Francisco 👋 </h1>
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/marianjoyfrancisco/">
@@ -10,12 +10,12 @@
 <img src='https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif'>
 </div>
 
-### :woman_technologist: About Me :
+<h2> :woman_technologist: About Me : </h2>
 - I'm currently studying Digital Design and Web Development in BCIT and I'm aspiring to be a UX/UI Designer or Graphic Designer.
 - I love art, books, travelling, and a little bit of coding.
 - Fun Fact: I can't start my day without drinking my Earl Grey tea. 
 
-### :hammer_and_wrench: Languages and Tools :
+<h2> :hammer_and_wrench: Languages and Tools : </h2>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
