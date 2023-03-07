@@ -1,5 +1,5 @@
 <div align="center">
-###Hi there, I'm Marian Francisco 👋
+<h1> Hi there, I'm Marian Francisco 👋 </h1>
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/marianjoyfrancisco/">
@@ -8,7 +8,6 @@
  </div>
 
 <img src='https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif'>
-  
 </div>
 
 ### :woman_technologist: About Me :
