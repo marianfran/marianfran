@@ -6,14 +6,13 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
  </div>
-
 <img src='https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif'>
 </div>
 
 <h2> :woman_technologist: About Me : </h2>
-- I'm currently studying Digital Design and Web Development in BCIT and I'm aspiring to be a UX/UI Designer or Graphic Designer.
-- I love art, books, travelling, and a little bit of coding.
-- Fun Fact: I can't start my day without drinking my Earl Grey tea. 
+> I'm currently studying Digital Design and Web Development in BCIT and I'm aspiring to be a UX/UI Designer or Graphic Designer.
+> I love art, books, travelling, and a little bit of coding.
+> Fun Fact: I can't start my day without drinking my Earl Grey tea. 
 
 <h2> :hammer_and_wrench: Languages and Tools : </h2>
 <div>
