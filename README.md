@@ -1,3 +1,4 @@
+<div align="center">
 ### Hi there, I'm Marian Francisco 👋
 
 <div id="badges">
@@ -7,6 +8,8 @@
  </div>
 
 <img src='https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif'>
+  
+</div>
 
 ### :woman_technologist: About Me :
 - I'm currently studying Digital Design and Web Development in BCIT and I'm aspiring to be a UX/UI Designer or Graphic Designer.
