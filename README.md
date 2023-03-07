@@ -28,7 +28,7 @@ I'm currently studying Digital Design and Web Development in BCIT and I'm aspiri
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marianfran&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2> 📫 Let's Collaborate </h2>
-<p> You can reach me at mjfranciscowork@gmail.com </p>
+<p> If you have any questions, concerns, or just want to say hi, you can reach me at mjfranciscowork@gmail.com </p>
   
   
 <!--
